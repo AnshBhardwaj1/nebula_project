@@ -9,7 +9,7 @@ def main():
     
     speaker = winc1.Dispatch("SAPI.SpVoice")
 
-    model = load_model('hack36.h5')
+    model = load_model('asl_best_model.h5')
 
     labels = [chr(65 + i) for i in range(26)] + ['', '', ' ']
 

@@ -16,7 +16,7 @@ labels = [chr(65 + i) for i in range(26)] + ["", "", " "]
 from collections import deque, Counter
 pred_buffer = deque(maxlen=BUFFER_SIZE)
 
-st.title("🖐️ ASL → Text → Speech")
+st.title("ASL → Text")
 FRAME_PLACEHOLDER = st.empty()
 TEXT_PLACEHOLDER  = st.empty()
 
