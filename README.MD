@@ -73,6 +73,11 @@ You’ll see your live webcam, a 5-frame majority-voting buffer, and TTS audio o
 
 **Live demo recording**: [Watch the demo video](https://drive.google.com/file/d/1HN6V9NTYrjYy9qUTqnFqw9ybZ5LYQqyj/view?usp=sharing)
 
+<video width="600" controls>
+  <source src="demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ---
 
 ## 🛠 How It Works
