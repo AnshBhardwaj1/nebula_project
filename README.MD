@@ -1,5 +1,7 @@
 # Real-Time ASL Alphabet Recognition (Nebula)
 
+**Demo recording**: [Watch the demo video](https://drive.google.com/file/d/1ouYzJDXAJR91enOn2zaWjRjcyUDQggCY/view?usp=sharing)
+
 A lightweight, browser-based demo that lets you sign ASL letters in front of your webcam and see them live in your browser via Streamlit.
 
 ---
@@ -71,7 +73,7 @@ streamlit run streamlit_app.py
 Open your browser at the URL it prints (usually `http://localhost:8501`).
 You’ll see your live webcam, a 5-frame majority-voting buffer, and TTS audio output.
 
-**Live demo recording**: [Watch the demo video](https://drive.google.com/file/d/1HN6V9NTYrjYy9qUTqnFqw9ybZ5LYQqyj/view?usp=sharing)
+**Live demo recording**: [Watch the demo video](https://drive.google.com/file/d/1ouYzJDXAJR91enOn2zaWjRjcyUDQggCY/view?usp=sharing)
 
 <video width="600" controls>
   <source src="demo.mp4" type="video/mp4">
